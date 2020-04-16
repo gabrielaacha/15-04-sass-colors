@@ -1,0 +1,10 @@
+@mixin text-inner-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: red;
+}
+
+// .inner-box-bottom {
+//   @include text-inner-bottom;
+// }
